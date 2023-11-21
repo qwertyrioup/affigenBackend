@@ -1,0 +1,6 @@
+runtime: nodejs20
+env_variables:
+  MONGO : "mongodb+srv://qwertyrioup:Vhdr3qaz@cluster.ddoall2.mongodb.net/Affigen?retryWrites=true&w=majority"
+  PORT : "8800"
+  STRIPE_PUBLIC : "pk_test_51OAxVFKB2UDWimhqPyiTt4yVcFCCKtq6ooHUFxzWwcbYo2CWFVuIuOC2JTE8mPbh4tq8lk4gVF1acfH3pZAquWzc00fzuIfqOB"
+  STRIPE_SECRET : "sk_test_51OAxVFKB2UDWimhq8IsF9QDwhnFbGbaDNiQrfznCh6hbOEaJDisf3L4GGZ6zf4ryW6p8boYAhDfxAvUsgJdetms600lJ0VNXWa"
