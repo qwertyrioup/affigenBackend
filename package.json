@@ -8,10 +8,11 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Majri Mohamed",
   "license": "ISC",
+  
   "dependencies": {
-    "@elastic/search-application-client": "^8.9.0-1",
+    
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.15",
